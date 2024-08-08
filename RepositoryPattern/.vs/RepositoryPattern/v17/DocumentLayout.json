@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\payal\\source\\repos\\Morningstar\\RepositoryPattern\\RepositoryPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|RepositoryPattern.csproj|c:\\users\\payal\\source\\repos\\morningstar\\repositorypattern\\repositorypattern\\repositorypattern.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|RepositoryPattern.csproj|solutionrelative:repositorypattern.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|RepositoryPattern.csproj|c:\\users\\payal\\source\\repos\\morningstar\\repositorypattern\\repositorypattern\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|RepositoryPattern.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|RepositoryPattern.csproj|c:\\users\\payal\\source\\repos\\morningstar\\repositorypattern\\repositorypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|RepositoryPattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|RepositoryPattern.csproj|c:\\users\\payal\\source\\repos\\morningstar\\repositorypattern\\repositorypattern\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|RepositoryPattern.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|RepositoryPattern.csproj|c:\\users\\payal\\source\\repos\\morningstar\\repositorypattern\\repositorypattern\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|RepositoryPattern.csproj|solutionrelative:models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|RepositoryPattern.csproj|c:\\users\\payal\\source\\repos\\morningstar\\repositorypattern\\repositorypattern\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|RepositoryPattern.csproj|solutionrelative:repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|RepositoryPattern.csproj|c:\\users\\payal\\source\\repos\\morningstar\\repositorypattern\\repositorypattern\\repository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|RepositoryPattern.csproj|solutionrelative:repository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|RepositoryPattern.csproj|c:\\users\\payal\\source\\repos\\morningstar\\repositorypattern\\repositorypattern\\appcode\\bookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|RepositoryPattern.csproj|solutionrelative:appcode\\bookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|RepositoryPattern.csproj|c:\\users\\payal\\source\\repos\\morningstar\\repositorypattern\\repositorypattern\\migrations\\20240808062237_initialdatabaseschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|RepositoryPattern.csproj|solutionrelative:migrations\\20240808062237_initialdatabaseschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|RepositoryPattern.csproj|c:\\users\\payal\\source\\repos\\morningstar\\repositorypattern\\repositorypattern\\migrations\\bookcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|RepositoryPattern.csproj|solutionrelative:migrations\\bookcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|RepositoryPattern.csproj|c:\\users\\payal\\source\\repos\\morningstar\\repositorypattern\\repositorypattern\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|RepositoryPattern.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|RepositoryPattern.csproj|c:\\users\\payal\\source\\repos\\morningstar\\repositorypattern\\repositorypattern\\repositorypattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|RepositoryPattern.csproj|solutionrelative:repositorypattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepositoryPattern",
+              "DocumentMoniker": "C:\\Users\\payal\\source\\repos\\Morningstar\\RepositoryPattern\\RepositoryPattern\\RepositoryPattern.csproj",
+              "RelativeDocumentMoniker": "RepositoryPattern.csproj",
+              "ToolTip": "C:\\Users\\payal\\source\\repos\\Morningstar\\RepositoryPattern\\RepositoryPattern\\RepositoryPattern.csproj",
+              "RelativeToolTip": "RepositoryPattern.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-08T11:39:36.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\payal\\source\\repos\\Morningstar\\RepositoryPattern\\RepositoryPattern\\Repository\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\payal\\source\\repos\\Morningstar\\RepositoryPattern\\RepositoryPattern\\Repository\\BookRepository.cs",
+              "RelativeToolTip": "Repository\\BookRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:32:14.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\payal\\source\\repos\\Morningstar\\RepositoryPattern\\RepositoryPattern\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\payal\\source\\repos\\Morningstar\\RepositoryPattern\\RepositoryPattern\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:22:28.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\payal\\source\\repos\\Morningstar\\RepositoryPattern\\RepositoryPattern\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\payal\\source\\repos\\Morningstar\\RepositoryPattern\\RepositoryPattern\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T12:20:42.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookContext.cs",
+              "DocumentMoniker": "C:\\Users\\payal\\source\\repos\\Morningstar\\RepositoryPattern\\RepositoryPattern\\AppCode\\BookContext.cs",
+              "RelativeDocumentMoniker": "AppCode\\BookContext.cs",
+              "ToolTip": "C:\\Users\\payal\\source\\repos\\Morningstar\\RepositoryPattern\\RepositoryPattern\\AppCode\\BookContext.cs",
+              "RelativeToolTip": "AppCode\\BookContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:11:23.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "C:\\Users\\payal\\source\\repos\\Morningstar\\RepositoryPattern\\RepositoryPattern\\Models\\BookModel.cs",
+              "RelativeDocumentMoniker": "Models\\BookModel.cs",
+              "ToolTip": "C:\\Users\\payal\\source\\repos\\Morningstar\\RepositoryPattern\\RepositoryPattern\\Models\\BookModel.cs",
+              "RelativeToolTip": "Models\\BookModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:10:22.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\payal\\source\\repos\\Morningstar\\RepositoryPattern\\RepositoryPattern\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\payal\\source\\repos\\Morningstar\\RepositoryPattern\\RepositoryPattern\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:45:17.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\payal\\source\\repos\\Morningstar\\RepositoryPattern\\RepositoryPattern\\Repository\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\payal\\source\\repos\\Morningstar\\RepositoryPattern\\RepositoryPattern\\Repository\\IBookRepository.cs",
+              "RelativeToolTip": "Repository\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:08:45.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240808062237_InitialDatabaseSchema.cs",
+              "DocumentMoniker": "C:\\Users\\payal\\source\\repos\\Morningstar\\RepositoryPattern\\RepositoryPattern\\Migrations\\20240808062237_InitialDatabaseSchema.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240808062237_InitialDatabaseSchema.cs",
+              "ToolTip": "C:\\Users\\payal\\source\\repos\\Morningstar\\RepositoryPattern\\RepositoryPattern\\Migrations\\20240808062237_InitialDatabaseSchema.cs",
+              "RelativeToolTip": "Migrations\\20240808062237_InitialDatabaseSchema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T06:22:38.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\payal\\source\\repos\\Morningstar\\RepositoryPattern\\RepositoryPattern\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\payal\\source\\repos\\Morningstar\\RepositoryPattern\\RepositoryPattern\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T12:22:53.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\payal\\source\\repos\\Morningstar\\RepositoryPattern\\RepositoryPattern\\Migrations\\BookContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\BookContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\payal\\source\\repos\\Morningstar\\RepositoryPattern\\RepositoryPattern\\Migrations\\BookContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\BookContextModelSnapshot.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T06:23:27.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RepositoryPattern.csproj",
+              "DocumentMoniker": "C:\\Users\\payal\\source\\repos\\Morningstar\\RepositoryPattern\\RepositoryPattern\\RepositoryPattern.csproj",
+              "RelativeDocumentMoniker": "RepositoryPattern.csproj",
+              "ToolTip": "C:\\Users\\payal\\source\\repos\\Morningstar\\RepositoryPattern\\RepositoryPattern\\RepositoryPattern.csproj",
+              "RelativeToolTip": "RepositoryPattern.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-07T12:04:02.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
